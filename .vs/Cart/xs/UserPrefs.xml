@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{DEAD64C2-39BE-4954-8B35-7804CCDE0F47}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Cart/Controllers/CartController.cs">
+    <Files>
+      <File FileName="Cart/Models/CartItems.cs" Line="3" Column="37" />
+      <File FileName="Cart/Models/OrderStatus.cs" Line="7" Column="1" />
+      <File FileName="Cart/Models/CartContext.cs" Line="13" Column="60" />
+      <File FileName="Cart/Startup.cs" Line="35" Column="279" />
+      <File FileName="Cart/Controllers/CartController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Cart" expanded="True">
+            <Node name="Cart" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="CartController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Cart PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
